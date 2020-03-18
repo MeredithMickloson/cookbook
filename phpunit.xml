@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpunit bootstrap = 'index.php'>
+
+
+    <testsuite name = "Model">
+        <directory suffix = "Test.php">
+            ./tests/Model
+        </directory>
+    </testsuite>
+
+    <testsuite name = "Controller">
+           <directory suffix = "Test.php">
+                ./tests/Controller
+           </directory>
+    </testsuite>
+
+
+</phpunit>

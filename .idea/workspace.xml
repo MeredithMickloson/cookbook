@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="935469a8-8b46-4af0-9b2c-e91dc03fe27e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Git-2.25.0-64-bit.exe" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1Z5UYht3e92ljTQLnO7LWCu3dmx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\myhaj\sites\cookbook" />
+      <recent name="C:\Users\myhaj\sites\cookbook\src\Classes\Models" />
+      <recent name="C:\Users\myhaj\sites\cookbook\App" />
+      <recent name="C:\Users\myhaj\sites\cookbook\app" />
+      <recent name="C:\Users\myhaj\sites\cookbook\tests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="935469a8-8b46-4af0-9b2c-e91dc03fe27e" name="Default Changelist" comment="" />
+      <created>1584128498044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584128498044</updated>
+      <workItem from="1584128500976" duration="1227000" />
+      <workItem from="1584129747950" duration="1098000" />
+      <workItem from="1584130892932" duration="618000" />
+      <workItem from="1584182523424" duration="3598000" />
+      <workItem from="1584192250872" duration="7325000" />
+      <workItem from="1584271011778" duration="1945000" />
+      <workItem from="1584284563199" duration="5592000" />
+      <workItem from="1584350155330" duration="2128000" />
+      <workItem from="1584372733565" duration="5610000" />
+      <workItem from="1584436017462" duration="621000" />
+      <workItem from="1584437952965" duration="11995000" />
+      <workItem from="1584523183171" duration="3565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="24" key="#CLI_Interpreters" timestamp="1584189309896">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="24" key="#CLI_Interpreters/0.0.1366.738@0.0.1366.738" timestamp="1584189309896" />
+    <state x="397" y="0" key="#PHP" timestamp="1584129890583">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="397" y="0" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1584129890583" />
+    <state x="137" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584189782562">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1584189782562" />
+    <state x="413" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584370252514">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1584370252514" />
+    <state x="367" y="25" width="645" height="688" key="#phpunit" timestamp="1584189431600">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="367" y="25" width="645" height="688" key="#phpunit/0.0.1366.738@0.0.1366.738" timestamp="1584189431600" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1584541794451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584541794451" />
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom" timestamp="1584524516901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584524516901" />
+    <state width="1323" height="175" key="GridCell.Tab.0.center" timestamp="1584524516900">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584524516900" />
+    <state width="1323" height="175" key="GridCell.Tab.0.left" timestamp="1584524516900">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584524516900" />
+    <state width="1323" height="175" key="GridCell.Tab.0.right" timestamp="1584524516901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584524516901" />
+    <state x="507" y="184" key="NewPhpClassDialog" timestamp="1584199592061">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="507" y="184" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1584199592061" />
+    <state x="184" y="12" key="SettingsEditor" timestamp="1584542092963">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584542092963" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1584523188975">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1584523188975" />
+    <state x="444" y="0" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1584130634297">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="444" y="0" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1366.738@0.0.1366.738" timestamp="1584130634297" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1584374620612">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1584374620612" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1584377689532">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1584377689532" />
+  </component>
+</project>
